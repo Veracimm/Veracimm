@@ -1,16 +1,27 @@
-## Hi there 👋
+<h2 align="center">
+ <a href="https://discord.com/users/982358143768068097"><img  width="400px" src="https://lanyard.kyrie25.me/api/982358143768068097?decoration=true&hideBadges=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Developing.."></a>
+<br> </br>
+ </h2>
+<p align="center">
+  <br> </br>
 
-<!--
-**Veracimm/Veracimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Ben Kimim</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```js
+class Vera {
+    constructor(options) {
+        this.name = "Vera",
+        this.sex = "woman",
+        this.length = "1.70",
+        this.type = "human",
+        this.job = "developer",
+        this.weight = "60",
+        this.age = "20",
+        this.discord.tag = "veraxrd."
+    };
+}
+
+module.exports = Vera
+```
