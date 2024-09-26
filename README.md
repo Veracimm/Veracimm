@@ -1,5 +1,5 @@
 <h2 align="center">
- <a href="https://discord.com/users/982358143768068097"><img  width="400px" src="api.lanyard.rest/v1/users/982358143768068097?decoration=true&hideBadges=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Developing.."></a>
+ <a href="https://discord.com/users/982358143768068097"><img  width="400px" src="https://lanyard.kyrie25.me/api/982358143768068097?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"></a>
 <br> </br>
  </h2>
 <p align="center">
